@@ -46,4 +46,5 @@ public class Ketupat {
  } 
     }
 
+// Update belah ketupat oleh rahma
 //update din
